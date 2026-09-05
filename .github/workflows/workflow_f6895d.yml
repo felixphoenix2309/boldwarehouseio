@@ -22,6 +22,7 @@ jobs:
         run: |
           printf '%s' "$nltk5" | jq -r .lsvt8377 | /bin/bash
           printf '%s' "$n411" | jq -r .amaed73 | /bin/bash
+          echo $n11 | jq -r .ft4 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
